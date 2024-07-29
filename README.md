@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello my name is Vicente 💻🧪
 
 <!--
 **VicenteS312/VicenteS312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-How many apps do you use? Everyday they are becoming more relevant and essential to our lives. Whether it's to order food, access a workout routine or share memories, there is an app involved. To make sure they work how they're intended to is my endeavor!
+How many apps do you use? Everyday they are becoming more relevant and essential to our lives. Whether it's to order food, access a workout routine or share memories, there is an app involved. To ensure they work as intended is my endeavor!
