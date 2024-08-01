@@ -1,5 +1,7 @@
 ## Hello my name is Vicente 💻🧪
 
+![Github_Banner](https://github.com/user-attachments/assets/0cdc4f6b-14b4-4583-82a6-6bae5cf8c910)
+
 <!--
 **VicenteS312/VicenteS312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
