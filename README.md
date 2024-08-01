@@ -1,4 +1,4 @@
-## Hello my name is Vicente 💻🧪
+## Hello my name is Vicente / 💻🧪 / Vicente.Salinas312@gmail.com 
 
 ![Github_Banner](https://github.com/user-attachments/assets/0cdc4f6b-14b4-4583-82a6-6bae5cf8c910)
 
