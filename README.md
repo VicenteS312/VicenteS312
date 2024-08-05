@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-How many apps do you use? Everyday they are becoming more relevant and essential to our lives. Whether it's to order food, access a workout routine or share memories, there is an app involved. To ensure they work as intended is my endeavor!
+**How many apps do you use? Everyday they are becoming more relevant and essential to our lives. Whether it's to order food, access a workout routine or share memories, there is an app involved. To ensure they work as intended is my endeavor!**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vicentesalinas312) 
