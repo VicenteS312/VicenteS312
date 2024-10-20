@@ -1,6 +1,6 @@
 ## Hello my name is Vicente / 💻🧪 / Vicente.Salinas312@gmail.com 
 
-![Github_Banner](https://github.com/user-attachments/assets/0cdc4f6b-14b4-4583-82a6-6bae5cf8c910)
+![Github_Banner](https://github.com/user-attachments/assets/bc9e4116-1d02-4a5a-9218-42cdf9e6003e)
 
 <!--
 **VicenteS312/VicenteS312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
